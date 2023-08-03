@@ -9,8 +9,8 @@
         "timestamp": "2023-07-31 12:30:00",
         "description": "High-performance laptop for gaming and productivity.",
         "price": 1200,
-        "manufacturer": "XYZ Electronics",
-        "availability": true
+        "manufacturer": "Dell Electronics",
+        "availability": "true"
       },
       {
         "id": 2,
@@ -21,8 +21,8 @@
         "timestamp": "2023-07-31 09:45:00",
         "description": "Latest flagship smartphone with AI-powered camera.",
         "price": 800,
-        "manufacturer": "ABC Technologies",
-        "availability": true
+        "manufacturer": "Apple Technologies",
+        "availability": "true"
       },
       {
         "id": 3,
@@ -36,7 +36,7 @@
         "brand": "DEF Sports",
         "color": "Black/White",
         "size": "10",
-        "availability": true
+        "availability": "true"
       },
       {
         "id": 4,
@@ -48,7 +48,7 @@
         "description": "Ergonomic office chair with lumbar support.",
         "price": 20000,
         "manufacturer": "GHI Furnishings",
-        "availability": true
+        "availability": "true"
       },
       {
         "id": 5,
@@ -60,7 +60,7 @@
         "description": "Portable Bluetooth speaker with enhanced bass.",
         "price": 5000,
         "manufacturer": "JKL Audio",
-        "availability": true
+        "availability": "true"
       },
       {
         "id": 6,
@@ -71,10 +71,11 @@
         "timestamp": "2023-07-29 10:30:00",
         "description": "Casual graphic t-shirt with unique design.",
         "price": 2050,
+        "manufacturer": "Shein",
         "brand": "MNO Fashion",
         "color": "Blue",
         "size": "M",
-        "availability": true
+        "availability": "true"
       },
       {
         "id": 7,
@@ -86,7 +87,7 @@
         "description": "Automatic coffee maker with programmable settings.",
         "price": 8000,
         "manufacturer": "PQR Appliances",
-        "availability": true
+        "availability": "true"
       },
       {
         "id": 8,
@@ -98,7 +99,7 @@
         "description": "True wireless earbuds with noise-canceling.",
         "price": 100,
         "manufacturer": "STU Audio",
-        "availability": true
+        "availability": "true"
       },
       {
         "id": 9,
@@ -110,8 +111,9 @@
         "description": "Durable backpack with multiple compartments.",
         "price": 6000,
         "brand": "VWX Outdoors",
+        "manufacturer": "North Face",
         "color": "Gray",
-        "availability": true
+        "availability": "true"
       },
       {
         "id": 10,
@@ -123,7 +125,7 @@
         "description": "Next-gen gaming console with 4K support.",
         "price": 4000,
         "manufacturer": "YZ Gaming",
-        "availability": true
+        "availability": "true"
       },
       {
         "id": 11,
@@ -134,10 +136,11 @@
         "timestamp": "2023-07-26 16:30:00",
         "description": "Classic denim jeans with a slim fit.",
         "price": 4500,
+        "manufacturer": "Calvin Klein",
         "brand": "ABC Fashion",
         "color": "Indigo",
         "size": "32",
-        "availability": true
+        "availability": "true"
       },
       {
         "id": 12,
@@ -148,10 +151,11 @@
         "timestamp": "2023-07-26 11:10:00",
         "description": "Stylish sneakers with a sporty look.",
         "price": 7500,
+        "manufacturer": "Adidas",
         "brand": "DEF Sports",
         "color": "Red/Black",
         "size": "9",
-        "availability": true
+        "availability": "true"
       },
       {
         "id": 13,
@@ -163,7 +167,7 @@
         "description": "Wireless home security camera with night vision.",
         "price": 9000,
         "manufacturer": "GHI Security",
-        "availability": true
+        "availability": "true"
       },
       {
         "id": 14,
@@ -176,7 +180,7 @@
         "price": 3000,
         "brand": "JKL Accessories",
         "color": "Brown",
-        "availability": true
+        "availability": "true"
       }
     ],
     "soldItems": [
@@ -193,13 +197,6 @@
         "quantity": 5,
         "amount": 45000,
         "id": 2
-      },
-      {
-        "productid": "P013",
-        "productname": "Home Security Camera",
-        "quantity": 5,
-        "amount": 45000,
-        "id": 3
       }
     ]
   }
